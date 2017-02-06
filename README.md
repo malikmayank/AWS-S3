@@ -1,1 +1,2 @@
-# AWS-S3
+# s3
+Scripts to interact with S3 programmatically. 
